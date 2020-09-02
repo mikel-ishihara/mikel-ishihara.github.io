@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Mikel Ishihara",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/img_3418.jpg",
+    "email": "mikeli@hawaii.edu",
+    "phone": "",
+    "website": "https://mikel-ishihara.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,24 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "mikel-ishihara",
+        "url": "https://github.com/mikel-ishihara"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "www.linkedin.com/in/mikel-ishihara"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "front-end development",
       "keywords": [
       ]
     }
