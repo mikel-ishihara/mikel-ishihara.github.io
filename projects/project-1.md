@@ -19,7 +19,7 @@ The web application had a process for pet owners to check in using an iPad kiosk
 
 A video of the final solution can be found [here](https://www.hec.org/community-economy/true/true-cimp/).
 
-<p align = “center”><iframe width="560" height="315" src="https://www.youtube.com/embed/c3d31JSaX8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align=“center”><iframe width="560" height="315" src="https://www.youtube.com/embed/c3d31JSaX8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
