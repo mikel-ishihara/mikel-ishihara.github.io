@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "mikel-ishihara
         "url": "www.linkedin.com/in/mikel-ishihara"
       }
     ]
@@ -65,33 +65,35 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (expected Fall, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018
       "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
     }
   ],
-  "work": [
+  "project experience: [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "DataHouse"
+      "position": "Software Engineering Intern
+      "website": "https://www.datahouse.com/uh-engineering-students-solve-pet-owner-problem-through-community-innovation/",
+      "startDate": "2019-10-12",
+      "endDate": "2020-4-05",
+      "summary": "Create a digitized check-in process for Animal Quarantine Facility",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Collaborated with fellow interns to design a solution for the Animal Quarantine Facility at HNL",
+        "Design a database and develop a Model-View-Controller using C#",
+        "Create a web application using Angular framework and HTML/CSS for both iPad and desktop"
+        
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Smart Campus Energy Lab"
+      "position": "Team Member"
+      "website": "https://scel-hawaii.org/research/",
+      "startDate": "2019-24-08",
+      "endDate": "2019-14-12",
+      "summary": "Create a PCB-baed w w ection device"
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
