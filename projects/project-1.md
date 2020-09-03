@@ -18,7 +18,7 @@ For my junior project, I was given the opportunity to work with DataHouse throug
 The web application had a process for pet owners to check in using an iPad kiosk. From there, the pet owner would be placed in a queue and their queue number and status would appear on a large display screen. Once the status indicates completion, the pet owner would go to the front desk for more information. I worked on the front-end development of this web application to manage the JavaScript APIs and model the interface with a UI/UX designer.
 
 A video of the final solution can be found here: 
-<p align = “center”><iframe width="560" height="315" src="https://www.youtube.com/watch?v=c3d31JSaX8o&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align = “center”><iframe width="560" height="315" src="https://youtu.be/c3d31JSaX8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
