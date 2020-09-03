@@ -27,7 +27,7 @@
       }
     ]
   },
-  "interess": [
+  "interests": [
     {
       "name": "software engineering",
       "keywords": [
@@ -72,7 +72,7 @@
       ]
     }
   ],
-  "project experience": [
+  "work": [
     {
       "company": "DataHouse",
       "position": "Software Engineering Intern",
