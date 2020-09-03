@@ -74,8 +74,8 @@
   ],
   "project experience: [
     {
-      "company": "DataHouse"
-      "position": "Software Engineering Intern
+      "company": "DataHouse",
+      "position": "Software Engineering Intern,
       "website": "https://www.datahouse.com/uh-engineering-students-solve-pet-owner-problem-through-community-innovation/",
       "startDate": "2019-10-12",
       "endDate": "2020-4-05",
@@ -88,15 +88,16 @@
       ]
     },
     {
-      "company": "Smart Campus Energy Lab"
-      "position": "Team Member"
+      "company": "Smart Campus Energy Lab",
+      "position": "Team Member",
       "website": "https://scel-hawaii.org/research/",
       "startDate": "2019-24-08",
       "endDate": "2019-14-12",
-      "summary": "Create a PCB-baed w w ection device"
+      "summary": "Create a PCB-based weather measurement device",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Design a custom PCB board using AutoDesk Eagle software",
+        "Use completed PCB board and sensors to assemble a weather measurement device",
+        "Utilize data from weather device to determeint the most efficient locations to place solar panels at UH Manoa campus"
       ]
     }
   ],
