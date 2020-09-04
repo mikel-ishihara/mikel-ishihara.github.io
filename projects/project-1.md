@@ -5,7 +5,7 @@ image: images/1.2.jpg
 title: TRUE Community Innovation Mentorship Program
 permalink: projects/datahouse
 # All dates must be YYYY-MM-DD format!
-date: 2019-10-12
+date: 2019-12-10
 labels:
   - Community innovation
   - Front-end development
