@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/weatherbox2.png
+image: images/weatherbox2.PNG
 title: PCB Weatherbox
 permalink: projects/weatherbox
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ summary: A self-sustaining weather measurement device.
 ---
 
 <p align = "center">
-  <img src = "../images/weatherbox3.png">
+  <img src = "../images/weatherbox3.PNG">
 </p>
 
 
@@ -23,7 +23,7 @@ I worked on building the PCB board for a weather box. The PCB board was a custom
 I also used C++ to run executables such that the weather box would send all weather data at regular minute intervals all day. 
 
 <p align = "center">
-  <img src = "../images/weatherbox2.png">
+  <img src = "../images/weatherbox2.PNG">
 </p>
 
 Throughout this project, I learned how software and hardware were tied together in a product. The process of making a PCB was an interesting skill to learn because architecture is an important part of designing a custom board. Additionally, it was fun to see the different products and applications that can be made using an Arduino/PCB as a base.
