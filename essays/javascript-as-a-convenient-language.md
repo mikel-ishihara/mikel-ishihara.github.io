@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: The Conveniece of JavaScript
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-09
+date: 2020-09-02
 labels:
   - Software engineering
   - JavaScript
