@@ -1,61 +1,24 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/mainmenu.jpg
+title: Bomberman Clone
+permalink: projects/bomberman
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-01-10
 labels:
-  - Lisp
+  - Bomberman
+  - SFML
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: A Bomberman clone made with C++ and SFML library.
 ---
+<p align = "center">
+  <img src = "../images/bomberman.PNG">
+</p>
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+My friend and I created a clone of the classic game Bomberman. The clone was made for EE205: Object-Oriented Programming as a final project. The game was made using C++ on a linux system.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Our final project was to use all the techniques we learned in C++ and use the SFML library. I had to implement functions to detect and prevent character collisions, assign sprites to objects, and generate tilemaps for the base of the game. The game was a big project to take in since the real Bomberman had powerups and more graphics, but our group managed to make most of the game.
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Since this project was done through the rise of Covid-19, our group had to communicate through Discord and GitHub. I learned how to make use of online resources to familiarize myself with a new C++ library. It was a great learning experience of distance working.
 
