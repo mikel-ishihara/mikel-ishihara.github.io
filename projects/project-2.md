@@ -9,7 +9,7 @@ date: 2019-08-24
 labels:
   - renewable energy
   - SCEL
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A self-sustaining weather measurement device.
 ---
 
 <p align = "center">
