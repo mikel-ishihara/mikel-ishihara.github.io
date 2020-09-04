@@ -1,16 +1,14 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/weatherbox2.png
 title: Vacay
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-08-24
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - renewable energy
+  - SCEL
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
