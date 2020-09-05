@@ -13,7 +13,7 @@ summary: A self-sustaining weather measurement device.
 ---
 
 <p align = "center">
-  <img src = "../images/weatherbox3.PNG">
+  <img class="ui medium right floated rounded image" src="/images/weatherbox3.PNG">
 </p>
 
 
