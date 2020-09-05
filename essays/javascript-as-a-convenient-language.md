@@ -36,6 +36,6 @@ function isOdd(number) {
 ```
 
 ## Learning to code effeciently
-The athletic software engineering method is great from a learning and professional perspective. The fast pace of the program forces one to learn, or at least be able to implement, different techniques in coding. The Workout of the Day (WOD) helps students learn how to create logical functions quickly and correctly. This special skill is essential for a software engineer’s professional career since many companies have coding/whiteboard interviews as part of their hiring process. Personally, I enjoy the WODs because it is more satisfying to write code efficiently than having homework where I spend hours looking at google for help. I can say for certain that I’m learning more because of the fast pace!
+The athletic software engineering method is great from a learning and professional perspective. The fast pace of the program forces one to learn, or at least be able to implement, different techniques in coding. The Workout of the Day (WOD) helps students learn how to create logical functions quickly and correctly. This special skill is essential for a software engineer’s professional career since many companies have coding/whiteboard interviews as part of their hiring process. I enjoy the WODs because it is more satisfying to write code efficiently than having homework where I spend hours looking at google for help. I can say for certain that I’m learning more because of the fast pace!
  
 
