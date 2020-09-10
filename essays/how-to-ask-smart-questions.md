@@ -9,17 +9,13 @@ labels:
   - StackOverFlow
 ---
 
-<p align = "center">
-  <img src = "../images/68747470733a2f2f64336a32706b6d6a74696e366f752e636c6f756466726f6e742e6e65742f636f64696e672d61742d7468652d7768697465626f6172642d73696c69636f6e2d76616c6c65792e706e67.png">
-</p>
-
-##What is a smart question?
+## What is a smart question?
 
 Asking the right questions is an important skill for software engineers. Smart questions lead to helpful answers that are important for learning. On the other hand, a not smart question can be misleading and hinder progress. Therefore, it is important to understand what makes smart questions. 
 
 A smart question is concise and provides relevant information. For example, relevant information could be the programming language and version being used or the specific error reference. Additionally, the question should show a train of thinking or effort towards the problem. This leads the one answering the question to continue that effort to a solution that is easy to understand.
 
-##Does it matter if the question I ask is smart?
+## Does it matter if the question I ask is smart?
 
 There are good reasons to ask smart questions. It is a necessary skill to be a better professional, especially as a software engineer. In a field where fundamental programming languages are being updated and new topics are being explored, a software engineer likely does not know the answer to every problem. StackOverFlow has been a great source for anyone looking for help with programming issues.
 
