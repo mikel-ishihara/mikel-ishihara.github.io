@@ -13,7 +13,7 @@ labels:
 As an aspiring software engineer, I’m interested in web and mobile app development. Mobile devices, such as phones and tablets, have become our handiest tool. Whether we need to find driving directions, use a calculator, plan events, etc., there is an app we can use! I’d like to learn the skills to create new apps that will be useful for the future. This involves skills such as UI/UX designing, handling data, and more.
 
 <p align = "center">
-  <img src = "../images/frontend2.PNG">
+  <img src = "../images/frontend2.png">
 </p>
 
 My interest in front-end development began recently when I was part of a team to develop a web application. It was a difficult experience because I had no previous experience, but I had a great time learning about how to make a website. I got to work with a UI designer and create his design for the website. The fun part was writing code and watching the changes appear right on the screen. I learned how to see things from a user’s perspective and develop an eye for details and features.
