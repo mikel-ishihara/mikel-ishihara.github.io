@@ -24,3 +24,6 @@ There are good reasons to ask smart questions. It is a necessary skill to be a b
 
 [This](https://stackoverflow.com/questions/61858019/my-code-is-supposed-to-reject-inputs-that-do-not-contain-all-letters-of-the-alph)
  is an example of a question that is ineffectively asked. The person asking wants to know how to fix a block of code. The header states that the code does not work and needs to be fixed. However, the lack of detail in the prompt makes the question difficult to answer. The ones that see the question are asking more questions to clarify the problem, rather than answering. The one person that provided an answer explicitly states the assumptions that he/she is using to provide an answer. Ultimately, the question cannot be provided with a good answer, which causes frustration for both the person asking and the people trying to answer the question.
+
+
+HI THIS IS A TEST
