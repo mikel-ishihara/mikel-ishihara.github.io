@@ -9,12 +9,12 @@ labels:
   - IntelliJ
 ---
 
+## The importance of coding standards
+Coding standards are important for any project because it allows programmers to write consistent and readable code. It is an easy way to increase work efficiency and fix errors quickly. There is a reason why the term “spaghetti code” exists. It’s because code can be written without format. Similar to how we have specific margins and line spacing for writing essays, code should have formatting so that it is easier to read. The indentations and line hierarchy we use for coding have a purpose that helps both the reader and programmer.
+
 <p align = "center">
   <img src = "../images/badhtml.png">
 </p>
-
-## The importance of coding standards
-Coding standards are important for any project because it allows programmers to write consistent and readable code. It is an easy way to increase work efficiency and fix errors quickly. There is a reason why the term “spaghetti code” exists. It’s because code can be written without format. Similar to how we have specific margins and line spacing for writing essays, code should have formatting so that it is easier to read. The indentations and line hierarchy we use for coding have a purpose that helps both the reader and programmer.
 
 I remember an instance where I was working on a web application and I could not get a webpage to load properly. The main issue was that there was an error with a header and image that would make the webpage appear blank. It took me three hours to fix this error, even though I knew which part of the code I should look at. However, the issue was not easy to exactly find because of my non-existent coding standards. The indentations and <div> tags were not aligned, making the issue more tedious. In retrospect, the error could have been solved in an hour or less.
 
