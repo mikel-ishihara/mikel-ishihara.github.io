@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Where Is The Error?
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-024
+date: 2020-09-24
 labels:
   - Coding standards
   - IntelliJ
