@@ -3,39 +3,23 @@ layout: essay
 type: essay
 title: The Conveniece of JavaScript
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-02
+date: 2020-09-024
 labels:
   - Software engineering
   - JavaScript
 ---
 
 <p align = "center">
-  <img src = "../images/68747470733a2f2f64336a32706b6d6a74696e366f752e636c6f756466726f6e742e6e65742f636f64696e672d61742d7468652d7768697465626f6172642d73696c69636f6e2d76616c6c65792e706e67.png">
+  <img src = "../images/badhtml.png">
 </p>
 
 ## Great things about high-level languages
-Being a computer engineering major, I have been educated in lower-level programming languages such as assembly code and C/C++. In comparison to these languages, Javascript is easy to pick up because it automatically allocates and frees memory, which is arguably the most confusing part about C/C++. I remember it took me months to understand pointers and references, especially with data structures such as binary search trees. Another plus is that I don’t have to declare variables as much in Javascript. From a software engineering perspective, I think certain data structures and manipulations are easier to solve in Javascript and I would highly consider using it for coding interviews.
+Coding standards are important for any project because it allows programmers to write consistent and readable code. It is an easy way to increase work efficiency and fix errors quickly. There is a reason why the term “spaghetti code” exists. It’s because code can be written without format. Similar to how we have specific margins and line spacing for writing essays, code should have formatting so that it is easier to read. The indentations and line hierarchy we use for coding has purpose which helps both the reader and programmer.
 
-One really useful trick I learned from the ES6 module in https://www.freecodecamp.org/ was the ternary operator. For example, the following function determines if a number is odd.
+I remember an instance where I was working on a web application and I could not get a webpage to load properly. The main issue was that there was an error with a header and image that would make the webpage appear blank. It took me three hours to fix this error, even though I knew which part of the code I should look at. However, the issue was not easy to exactly find because of my non-existent coding standards. The indentations and <div> tags were not aligned, making the issue more tedious. In retrospect, the error could have been solved in an hour or less.
 
-```JavaScript
-function isOdd(number) {
-  if (number % 2 == 0) {
-    return false;
-  else {
-    return true;
-}
-```
+When working professionally with other programmers, coding standards become extremely important. It is important that someone can look at a part of the code and pick it up so that progress can be made. If it takes an unreasonable amount of time to understand what’s going on then it makes project work difficult. Working in a team can be a challenge in itself; there’s no need to make work harder.
 
-Instead of using an if, else statement, I could write this function as:
+After using ESLint with IntelliJ for a week, I have come to appreciate some of the benefits of coding standards. It can identify redundant lines and sometimes automatically fix syntax errors. At first, I thought it was time-consuming to set up because the configurations must always be made when opening a new project. However, I find that the green check on my code is easy since I’m already familiar with most of the syntax practices. Some of the ESLint corrections with whitespace can be somewhat troublesome, but for the most part I think it is more beneficial than not.
 
-```JavaScript
-function isOdd(number) {
-  return (number % 2 == 0 ? false : true);
-}
-```
-
-## Learning to code efficiently
-The athletic software engineering method is great from a learning and professional perspective. The fast pace of the program forces one to learn, or at least be able to implement, different techniques in coding. The Workout of the Day (WOD) helps students learn how to create logical functions quickly and correctly. This special skill is essential for a software engineer’s professional career since many companies have coding/whiteboard interviews as part of their hiring process. I enjoy the WODs because it is more satisfying to write code efficiently than having homework where I spend hours looking at google for help. I can say for certain that I’m learning more because of the fast pace!
- 
 
