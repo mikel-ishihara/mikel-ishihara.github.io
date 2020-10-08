@@ -1,20 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Where Is The Error?
+title: My Journey Through Frameworks
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-07
 labels:
   - Angular
   - Semantic UI
 ---
-
-## The importance of coding standards
-Coding standards are important for any project because it allows programmers to write consistent and readable code. It is an easy way to increase work efficiency and fix errors quickly. There is a reason why the term “spaghetti code” exists. It’s because code can be written without format. Similar to how we have specific margins and line spacing for writing essays, code should have formatting so that it is easier to read. The indentations and line hierarchy we use for coding have a purpose that helps both the reader and programmer.
-
-<p align = "center">
-  <img src = "../images/badhtml.png">
-</p>
 
 ## Into the unknown
 My first experience with HTML/CSS was a nightmare. I had to develop the user interfaces for a website and I had never learned the front-end languages used. There were deadlines and I had to make the web pages look perfect. I remember spending hours using padding to place elements in the exact positions from the mock-up designs. At the time, I didn’t know this was a bad practice since I didn’t fully understand padding. The website was tested on both iPad and desktop, and as you can guess, the website was a mess on the iPad.
