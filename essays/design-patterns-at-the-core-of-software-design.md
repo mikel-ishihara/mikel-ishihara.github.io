@@ -13,7 +13,7 @@ Knowing patterns is a useful skill when it comes to software engineering. Design
 
 When we first learn Java, we are taught that arrays are static and hold a fixed number of values that need to be specified at allocation. We later realize that this is an inconvenience because there are many situations where an array should ideally be resizable. When we start a problem and decide to use an array, how do we know how big the array is supposed to be?
 
-<p align = "center">
+<p align = "center" width = "640" height = "360">
   <img src = "../images/collections.png">
 </p>
 
