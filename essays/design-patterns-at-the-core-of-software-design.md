@@ -13,8 +13,8 @@ Knowing patterns is a useful skill when it comes to software engineering. Design
 
 When we first learn Java, we are taught that arrays are static and hold a fixed number of values that need to be specified at allocation. We later realize that this is an inconvenience because there are many situations where an array should ideally be resizable. When we start a problem and decide to use an array, how do we know how big the array is supposed to be?
 
-<p align = "center" width = "640" height = "360">
-  <img src = "../images/collections.png">
+<p align = "center">
+  <img src = "../images/collections.png" width = "640" height = "360">
 </p>
 
 This leads to the ArrayList data structure, which is a special class that inherits the List interface. In a way, this is an example of the decorator design pattern. The ArrayList is still an array, but now we can use additional methods such as get(), remove(), indexOf(), and so on, without worrying about the size of the array. This specialized class is one of many data structures we commonly use. Another example is the PriorityQueue, which is a general solution when we need to use the first-in, first-out (FIFO) behavior of the Queue interface, but we also want this queue to have a comparator to somehow prioritize the elements we store.
