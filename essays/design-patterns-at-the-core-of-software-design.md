@@ -22,7 +22,7 @@ This leads to the ArrayList data structure, which is a special class that inheri
 ## Applying design patterns to Algorithms
 
 <p align = "center">
-  <img src = "../images/dfs.png">
+  <img src = "../images/dfs2.png">
 </p>
 
 Algorithms are another fundamental of programming. A common algorithm used in problem-solving is a depth-first search. In this graph traversal method, we start at a root node and explore an arbitrary adjacent node as far as possible before backtracking. For instance, if we were trying to find a specific number in a binary tree, we would start at the root and decide if it is the number we are looking for. If not, we can arbitrarily move on to the left node, and if it is once again not the correct number, we can go left again until we reach the end. Once we reach the end, we begin backtracking and looking at the right node until an answer is found. This is the same idea as the visitor design pattern. The visitor is a behavioral design pattern that chooses which function/algorithm should be applied when visiting an object. In the case of the binary tree, if the end is reached (the next left node is null), then we invoke a backtracking method to move to the previous node and begin searching. In other words, the depth-first search algorithm used is an application of the visitor design pattern.
