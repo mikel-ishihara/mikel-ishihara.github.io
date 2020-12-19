@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/engage1.PNG
+image: images/engage3.PNG
 title: Engage Manoa
 permalink: projects/engagemanoa
 # All dates must be YYYY-MM-DD format!
