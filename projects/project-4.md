@@ -13,7 +13,7 @@ labels:
 summary: A web application for UH students to find university clubs.
 ---
 <p align = "center">
-  <img src = "../images/engage2.PNG">
+  <img src = "../images/engage2.PNG" width = "640" height = "360">
 </p>
 
 
